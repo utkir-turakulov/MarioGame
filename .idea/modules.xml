@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Mario.iml" filepath="$PROJECT_DIR$/Mario.iml" />
+      <module fileurl="file://C:\Android\projects\MarioGame.git\Mario.iml" filepath="C:\Android\projects\MarioGame.git\Mario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MarioGame.git.iml" filepath="$PROJECT_DIR$/MarioGame.git.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Android\projects\MarioGame.git\app\app.iml" filepath="C:\Android\projects\MarioGame.git\app\app.iml" />
     </modules>
   </component>
 </project>
