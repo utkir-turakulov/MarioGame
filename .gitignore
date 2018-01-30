@@ -7,3 +7,6 @@
 /build
 /captures
 .externalNativeBuild
+ssh_keys
+ssh_keys.pub
+desktop.ini
